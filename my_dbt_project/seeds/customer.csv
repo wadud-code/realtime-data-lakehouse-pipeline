@@ -1,0 +1,7 @@
+customer_id,name,age,email,signup_date,country
+1,John Doe,25,john@gmail.com,2023-01-02,Ghana
+2,Jane Smith,,jane_smith@gmail.com,,ghana
+3,Bob Lee,30,bob@gmail,,GHA
+4,Alice Johnson,29,,2023-04-15,Ghana 
+5,Michael,45,michael@gmail.com,2023-05-20,GH
+6,,32,,2023-06-01,Ghana

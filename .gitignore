@@ -1,0 +1,10 @@
+venv/
+my_first_db.duckdb
+*.duckdb
+logs/
+.terraform/
+Terraform/.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+ 
